@@ -1,0 +1,4 @@
+Test
+Hi
+{{user}}
+/me uses Thundershock on {{user}}!
