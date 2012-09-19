@@ -1,4 +1,1 @@
-Test
-Hi
-{{user}}
-/me uses Thundershock on {{user}}!
+Sorry {{user}}, I do not recognize that command.
