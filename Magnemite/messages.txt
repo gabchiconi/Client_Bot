@@ -1,4 +1,5 @@
-Sorry {{user}}, I do not recognize that command.
+/me uses Explosion!
+/me uses Thunder on {{user}}!
 {{user}} you fucking suck.
 Please go away, {{user}}.
 I LOVE DICKS AND {{user}}!
